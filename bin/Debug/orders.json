@@ -1,0 +1,148 @@
+[
+  {
+    "CafeName": "Restaurant",
+    "CurrentDate": "2024-05-26T03:12:31.1535591+03:00",
+    "Dishes": [
+      {
+        "Name": "Caesar Salad",
+        "Cost": 400,
+        "PreparationTime": 10,
+        "Category": 0,
+        "FirstName": "John",
+        "LastName": "Doe"
+      },
+      {
+        "Name": "Spaghetti Carbonara",
+        "Cost": 550,
+        "PreparationTime": 20,
+        "Category": 1,
+        "FirstName": "Jane",
+        "LastName": "Smith"
+      },
+      {
+        "Name": "Minestrone Soup",
+        "Cost": 300,
+        "PreparationTime": 25,
+        "Category": 1,
+        "FirstName": "Jane",
+        "LastName": "Smith"
+      },
+      {
+        "Name": "Chocolate Cake",
+        "Cost": 450,
+        "PreparationTime": 30,
+        "Category": 3,
+        "FirstName": "Anna",
+        "LastName": "Lee"
+      }
+    ]
+  },
+  {
+    "CafeName": "Pizza",
+    "CurrentDate": "2024-05-26T03:12:31.1571903+03:00",
+    "Dishes": [
+      {
+        "Name": "Margherita",
+        "Cost": 500,
+        "PreparationTime": 15,
+        "Category": 1,
+        "FirstName": "Mario",
+        "LastName": "Rossi"
+      },
+      {
+        "Name": "Pepperoni",
+        "Cost": 600,
+        "PreparationTime": 20,
+        "Category": 1,
+        "FirstName": "Giovanni",
+        "LastName": "Bianchi"
+      },
+      {
+        "Name": "Four Cheese",
+        "Cost": 700,
+        "PreparationTime": 25,
+        "Category": 1,
+        "FirstName": "Giovanni",
+        "LastName": "Bianchi"
+      },
+      {
+        "Name": "Hawaiian",
+        "Cost": 650,
+        "PreparationTime": 18,
+        "Category": 1,
+        "FirstName": "Anna",
+        "LastName": "Neri"
+      }
+    ]
+  },
+  {
+    "CafeName": "Bar",
+    "CurrentDate": "2024-05-26T03:12:31.1571928+03:00",
+    "Dishes": [
+      {
+        "Name": "Lemonade",
+        "Cost": 50,
+        "PreparationTime": 2,
+        "Category": 4,
+        "FirstName": "Bob",
+        "LastName": "Saginowski"
+      },
+      {
+        "Name": "Mojito",
+        "Cost": 200,
+        "PreparationTime": 5,
+        "Category": 4,
+        "FirstName": "Alice",
+        "LastName": "Johnson"
+      },
+      {
+        "Name": "Pina Colada",
+        "Cost": 250,
+        "PreparationTime": 7,
+        "Category": 4,
+        "FirstName": "Eve",
+        "LastName": "Smith"
+      },
+      {
+        "Name": "Margarita",
+        "Cost": 220,
+        "PreparationTime": 6,
+        "Category": 4,
+        "FirstName": "John",
+        "LastName": "Doe"
+      },
+      {
+        "Name": "Cosmopolitan",
+        "Cost": 230,
+        "PreparationTime": 6,
+        "Category": 4,
+        "FirstName": "Anna",
+        "LastName": "Lee"
+      },
+      {
+        "Name": "Daiquiri",
+        "Cost": 210,
+        "PreparationTime": 5,
+        "Category": 4,
+        "FirstName": "Jane",
+        "LastName": "Smith"
+      },
+      {
+        "Name": "Old Fashioned",
+        "Cost": 240,
+        "PreparationTime": 8,
+        "Category": 4,
+        "FirstName": "Tom",
+        "LastName": "Brown"
+      },
+      {
+        "Name": "Manhattan",
+        "Cost": 250,
+        "PreparationTime": 7,
+        "Category": 4,
+        "FirstName": "Chris",
+        "LastName": "Green"
+      }
+    ]
+  }
+]

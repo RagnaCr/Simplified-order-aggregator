@@ -1,0 +1,26 @@
+F:\ProjectsUnivers\SystemProgram 2course 2sem\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+F:\ProjectsUnivers\SystemProgram 2course 2sem\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+F:\ProjectsUnivers\SystemProgram 2course 2sem\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+F:\ProjectsUnivers\SystemProgram 2course 2sem\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+F:\ProjectsUnivers\SystemProgram 2course 2sem\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+F:\ProjectsUnivers\SystemProgram 2course 2sem\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+F:\ProjectsUnivers\SystemProgram 2course 2sem\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+F:\ProjectsUnivers\SystemProgram 2course 2sem\WindowsFormsApp5\bin\Debug\Newtonsoft.Json.dll
+F:\ProjectsUnivers\SystemProgram 2course 2sem\WindowsFormsApp5\bin\Debug\Newtonsoft.Json.xml
+F:\ProjectsUnivers\SystemProgram 2course 2sem\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CopyComplete
+F:\ProjectsUnivers\SystemProgram 2course 2sem\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+F:\ProjectsUnivers\SystemProgram 2course 2sem\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+F:\ProjectsUnivers\SystemProgram 2course 2sem\WindowsFormsApp5\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\LPayr\Desktop\sp\мой сп\lab5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\LPayr\Desktop\sp\мой сп\lab5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\LPayr\Desktop\sp\мой сп\lab5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\LPayr\Desktop\sp\мой сп\lab5\WindowsFormsApp5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LPayr\Desktop\sp\мой сп\lab5\WindowsFormsApp5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LPayr\Desktop\sp\мой сп\lab5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\LPayr\Desktop\sp\мой сп\lab5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\LPayr\Desktop\sp\мой сп\lab5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\LPayr\Desktop\sp\мой сп\lab5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\LPayr\Desktop\sp\мой сп\lab5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CopyComplete
+C:\Users\LPayr\Desktop\sp\мой сп\lab5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\LPayr\Desktop\sp\мой сп\lab5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\LPayr\Desktop\sp\мой сп\lab5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources

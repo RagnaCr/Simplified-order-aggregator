@@ -1,0 +1,30 @@
+{
+  "CafeName": "Restaurant",
+  "CurrentDate": "2024-05-26T15:21:21.631854+03:00",
+  "Dishes": [
+    {
+      "Name": "Minestrone Soup",
+      "Cost": 300,
+      "PreparationTime": 25,
+      "Category": 1,
+      "FirstName": "Jane",
+      "LastName": "Smith"
+    },
+    {
+      "Name": "Chocolate Cake",
+      "Cost": 450,
+      "PreparationTime": 30,
+      "Category": 3,
+      "FirstName": "Anna",
+      "LastName": "Lee"
+    },
+    {
+      "Name": "Spaghetti Carbonara",
+      "Cost": 550,
+      "PreparationTime": 20,
+      "Category": 1,
+      "FirstName": "Jane",
+      "LastName": "Smith"
+    }
+  ]
+}
